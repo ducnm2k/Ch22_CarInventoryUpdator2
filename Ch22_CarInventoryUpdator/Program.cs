@@ -16,6 +16,7 @@ namespace Ch22_CarInventoryUpdator
         static void Main(string[] args)
         {
             Console.WriteLine("****** Car Inventory Updater ******");
+            Console.WriteLine("abc");
             bool userDone = false;
             string userCommand = "";
             
